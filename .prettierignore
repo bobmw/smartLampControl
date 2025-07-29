@@ -1,0 +1,16 @@
+# .prettierignore
+
+# Pastas comuns
+node_modules
+dist
+build
+.env
+.env_example
+
+# Python
+lamp_serial
+*.py
+
+# Códigos Arduino
+arduino
+*.ino
